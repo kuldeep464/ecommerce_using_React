@@ -4,7 +4,7 @@ A modern e-commerce web application built with **JavaScript/React/Node.js** (adj
 
 ---
 
-<img src="screenshot_images/homepage.png" alt="Home Page" width="300"/>
+<img src="screenshot_images/HomePage.png" alt="Home Page" width="300"/>
 <img src="screenshot_images/cartImage.png" alt="Cart Page" width="300"/>
 
 <img src="screenshot_images/wishlistPage.png" alt="Wishlist Page" width="300"/>
