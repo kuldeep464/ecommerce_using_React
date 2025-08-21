@@ -4,9 +4,13 @@ A modern e-commerce web application built with **JavaScript/React/Node.js** (adj
 
 ---
 
+## 🌐 Live Demo
+You can check the live project here 👉 https://ecommerce-using-react-two.vercel.app/
+
+---
+
 <img src="screenshot_images/HomePage.png" alt="Home Page" width="300"/>
 <img src="screenshot_images/cartImage.png" alt="Cart Page" width="300"/>
-
 <img src="screenshot_images/wishlistPage.png" alt="Wishlist Page" width="300"/>
 <img src="screenshot_images/ProductDetailingPage.png" alt="Product Detailing Page" width="300"/>
 
